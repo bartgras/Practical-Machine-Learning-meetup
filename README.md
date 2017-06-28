@@ -1,6 +1,7 @@
 # Practical-Machine-Learning-meetup
 
-#Important notice!
+# Important notice!
+
 To make it easier to add/edit content, we've created GitHub organization: https://github.com/shanghai-machine-learning-meetup
 
 In future repositories/issues/discussions/wiki will be added there.
