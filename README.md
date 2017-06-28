@@ -8,14 +8,16 @@ In future repositories/issues/discussions/wiki will be added there.
 
 
 
-Links to notebooks and resources used during "Practical Machine Learning" meetup in Shanghai
-
 # Meetup Page
 
 We meet regularly every 2 weeks in Shanghai. Come and say hi!
 https://www.meetup.com/Shanghai-Machine-Learning-Meetup/
 
 
+
+# Meetings content
+
+Links to notebooks and resources used during "Practical Machine Learning" meetup in Shanghai
 
 ### Meeting 1
 
