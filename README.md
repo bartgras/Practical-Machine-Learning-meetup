@@ -1,11 +1,19 @@
 # Practical-Machine-Learning-meetup
 
+#Important notice!
+To make it easier to add/edit content, we've created GitHub organization: https://github.com/shanghai-machine-learning-meetup
+
+In future repositories/issues/discussions/wiki will be added there.
+
+
+
 Links to notebooks and resources used during "Practical Machine Learning" meetup in Shanghai
 
 # Meetup Page
 
 We meet regularly every 2 weeks in Shanghai. Come and say hi!
 https://www.meetup.com/Shanghai-Machine-Learning-Meetup/
+
 
 
 ### Meeting 1
