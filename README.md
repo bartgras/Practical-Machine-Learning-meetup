@@ -14,6 +14,8 @@ We meet regularly every 2 weeks in Shanghai. Come and say hi!
 https://www.meetup.com/Shanghai-Machine-Learning-Meetup/
 
 
+# Study meetings
+- Small self-study [group](https://github.com/evansimpson79/ML-Co-learning-team/wiki) meets on Sundays
 
 # Meetings content
 
